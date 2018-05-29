@@ -1,3 +1,7 @@
 Zawijanie wyrazów:
 
-dsadsdssfdfdsfsdfdsfdsfsfdsfdsfdfdsfdsfdsfdsdsfdsfdsfbfyeuwvyuwevyewvwuev
+alt + Z 
+
+Łączenie dwóch linii:
+
+^J
